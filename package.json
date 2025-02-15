@@ -1,0 +1,14 @@
+{
+  "name": "gcd-euclidean",
+  "version": "0.0.1",
+  "description": "GCD calculation for any two given integer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "GCD"
+  ],
+  "author": "Md Layeeque",
+  "license": "MIT"
+}
